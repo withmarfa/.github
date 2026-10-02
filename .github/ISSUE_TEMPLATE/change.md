@@ -1,8 +1,8 @@
 ---
 name: Change
-about: An accepted piece of work, ready to build.
+about: A piece of work in the code, confirmed at triage before anyone builds it.
 title: ""
-labels: ""
+labels: ["needs-triage"]
 assignees: ""
 ---
 

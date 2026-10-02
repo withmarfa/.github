@@ -1,6 +1,7 @@
 name: Bug report
 description: Something in Marfa, or in an app built on it, does not work as it should.
 type: Bug
+labels: ["needs-triage"]
 body:
   - type: textarea
     id: what-happened
